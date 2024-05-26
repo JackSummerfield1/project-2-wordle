@@ -18,8 +18,18 @@ hr {
     width: 500px;
 }
 
+/* Styling grid */
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
 .tile {
-    width: 36px;
-    height: 36px;
+    width: 54px;
+    height: 54px;
     border: 2px solid #d3d6da;
+    margin: 2.5px;
+    font-size: 50px;
+    text-align: center;
 }
