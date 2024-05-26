@@ -1,0 +1,25 @@
+/* Imported Fonts */
+@font-face {
+    font-family: 'helvetica-neue';
+    src: url(../fonts/helvetica-neue-black.otf);
+}
+
+body {
+    font-family: helvetica-neue, sans-serif;
+}
+
+h1 {
+    letter-spacing: 2px;
+    font-size: 2.5em;
+    text-align: center;
+}
+
+hr {
+    width: 500px;
+}
+
+.tile {
+    width: 36px;
+    height: 36px;
+    border: 2px solid #d3d6da;
+}
